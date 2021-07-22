@@ -10,141 +10,6 @@ if (document.addEventListener) {
 
 $(function() {
 	var galleries = {
-		/*ux: [
-		  {
-			"src": "images/portfolio/ux/krpUXprocess.jpg",
-			"w": 1800,
-			"h": 1200,
-			"title": "I truly believe all online experiences should be user-centered and driven by strong business, social and content strategies. I have experience of both hands-on and leadership roles in UX projects."
-		  },
-		  {
-			"src": "images/portfolio/ux/krpcWire.jpg",
-			"w": 1800,
-			"h": 915,
-			"title": "Project: krp creative was my first freelance design start-up. As was popular in 2006, I built the site entirely in Flash with lots of ActionScript."
-		  },
-		  {
-			"src": "images/portfolio/ux/adeuxMockup.jpg",
-			"w": 1500,
-			"h": 1500,
-			"title": "Project: à deux online is a reponsive site that creates an immersive promotional experience including an interactive portfolio, blog and social media connections. My role: Creative Direction &amp; WordPress customization"
-		  },
-		  {
-			"src": "images/portfolio/ux/adeuxUX.jpg",
-			"w": 1600,
-			"h": 1108,
-			"title": "Project: the completed adeux.co experience"
-		  },
-		  {
-			"src": "images/portfolio/ux/just-giving.jpg",
-			"w": 1110,
-			"h": 1082,
-			"title": "Project: JustGiving makes use of psychology to engage with its audience: human faces, succinct text, few paths for a low cognitive load, and the 'peer effect' where you see others' donations and may follow accordingly. My role: UX Strategy &amp; Creative Direction"
-		  },
-		  {
-			"src": "images/portfolio/ux/ultraviolet.jpg",
-			"w": 1336,
-			"h": 1000,
-			"title": "My role: Creative Direction &amp; Design"
-		  },
-		  {
-			"src": "images/portfolio/ux/rainforest-rescue.jpg",
-			"w": 1011,
-			"h": 1011,
-			"title": "Project: Sky Rainforest Rescue is a great example of how a website can capture an audience through visual language and engaging images, many of which involve people. My role: UX Strategy &amp; Creative Direction"
-		  },
-		   {
-			"src": "images/portfolio/ux/brabantia.jpg",
-			"w": 1460,
-			"h": 859,
-			"title": "Project: Brabantia, where good customer service makes the user experience more personal and increases brand loyalty. My role: UX Strategy &amp; Art Direction"
-		  }
-		],*/
-		
-		
-		branding: [
-			 {
-			"src": "images/portfolio/design/winterpark.jpg",
-			"w": 1920,
-			"h": 1920
-		  },
-			{
-			"src": "images/portfolio/design/GospelHill.jpg",
-			"w": 1920,
-			"h": 1920
-		  },
-/*{
-			"src": "images/portfolio/design/California.jpg",
-			"w": 1920,
-			"h": 1920
-		  },*/
-		{
-			"src": "images/portfolio/design/cbci.jpg",
-			"w": 1890,
-			"h": 1890
-		  },
-		{
-			"src": "images/portfolio/branding/adeuxLogo.jpg",
-			"w": 1920,
-			"h": 1280
-		  },
-		  {
-			"src": "images/portfolio/branding/adeuxBranding.jpg",
-			"w": 1600,
-			"h": 1067
-		  },
-		   {
-			"src": "images/portfolio/branding/byCatherineAnne.jpg",
-			"w": 1600,
-			"h": 1522
-		  },
-			{
-			"src": "images/portfolio/branding/SamanthaSign.jpg",
-			"w": 1200,
-			"h": 800
-		  },	
-		  {
-			"src": "images/portfolio/branding/maisonSamantha.jpg",
-			"w": 1600,
-			"h": 1186
-		  },
-		  {
-			"src": "images/portfolio/branding/jam.jpg",
-			"w": 1920,
-			"h": 1280
-		  },
-		  {
-			"src": "images/portfolio/branding/jam2.jpg",
-			"w": 1920,
-			"h": 1280
-		  },
-		  {
-			"src": "images/portfolio/branding/kingCrosby.jpg",
-			"w": 1920,
-			"h": 1280
-		  },
-		  {
-			"src": "images/portfolio/branding/kingCrosby2.jpg",
-			"w": 1920,
-			"h": 1280
-		  },
-			 {
-			"src": "images/portfolio/largeFormat/FashionTruck.jpg",
-			"w": 1600,
-			"h": 927
-		  },
-			{
-			"src": "images/portfolio/largeFormat/Rousseau.jpg",
-			"w": 1500,
-			"h": 1125
-		  },
-		   {
-			"src": "images/portfolio/branding/modluxe.jpg",
-			"w": 1600,
-			"h": 1261
-		  }
-		],
-		
 		
 		/*adeux: [
 		  {
@@ -271,7 +136,7 @@ $(function() {
 			"h": 1920
 		  },
 		  {
-			"src": "images/portfolio/design/mtabudget.jpg",
+			"src": "images/portfolio/design/mtaBudget.jpg",
 			"w": 1850,
 			"h": 2499
 		  },
@@ -287,7 +152,140 @@ $(function() {
 		  }*/
 		],
 		
-		
+		ux: [
+			{
+			  "src": "images/portfolio/ux/krpUXprocess.jpg",
+			  "w": 1800,
+			  "h": 1200,
+			  "title": "I truly believe all online experiences should be user-centered and driven by strong business, social and content strategies. I have experience of both hands-on and leadership roles in UX projects."
+			},
+			{
+			  "src": "images/portfolio/ux/krpcWire.jpg",
+			  "w": 1800,
+			  "h": 915,
+			  "title": "Project: krp creative was my first freelance design business. As was popular in 2006, I built the site entirely in Flash with lots of ActionScript. Glad that's over."
+			},
+			{
+			  "src": "images/portfolio/ux/adeuxMockup.jpg",
+			  "w": 1500,
+			  "h": 1500,
+			  "title": "Project: à deux online is a reponsive site that creates an immersive promotional experience including an interactive portfolio, blog and social media connections. My role: Creative Direction &amp; WordPress customization"
+			},
+			{
+			  "src": "images/portfolio/ux/adeuxUX.jpg",
+			  "w": 1600,
+			  "h": 1108,
+			  "title": "Project: the completed adeux.co experience"
+			},
+			{
+			  "src": "images/portfolio/ux/just-giving.jpg",
+			  "w": 1110,
+			  "h": 1082,
+			  "title": "Project: JustGiving makes use of psychology to engage with its audience: human faces, succinct text, few paths for a low cognitive load, and the 'peer effect' where you see others' donations and may follow accordingly. My role: UX Strategy &amp; Creative Direction"
+			},
+			{
+			  "src": "images/portfolio/ux/ultraviolet.jpg",
+			  "w": 1336,
+			  "h": 1000,
+			  "title": "My role: Creative Direction &amp; Design"
+			},
+			{
+			  "src": "images/portfolio/ux/rainforest-rescue.jpg",
+			  "w": 1011,
+			  "h": 1011,
+			  "title": "Project: Sky Rainforest Rescue is a great example of how a website can capture an audience through visual language and engaging images, many of which involve people. My role: UX Strategy &amp; Creative Direction"
+			},
+			 {
+			  "src": "images/portfolio/ux/brabantia.jpg",
+			  "w": 1460,
+			  "h": 859,
+			  "title": "Project: Brabantia, where good customer service makes the user experience more personal and increases brand loyalty. My role: UX Strategy &amp; Art Direction"
+			}
+		  ],
+		  
+		  
+		  branding: [
+			   {
+			  "src": "images/portfolio/design/winterPark.jpg",
+			  "w": 1920,
+			  "h": 1920
+			},
+			  {
+			  "src": "images/portfolio/design/GospelHill.jpg",
+			  "w": 1920,
+			  "h": 1920
+			},
+  /*{
+			  "src": "images/portfolio/design/California.jpg",
+			  "w": 1920,
+			  "h": 1920
+			},*/
+		  {
+			  "src": "images/portfolio/design/cbci.jpg",
+			  "w": 1890,
+			  "h": 1890
+			},
+		  {
+			  "src": "images/portfolio/branding/adeuxLogo.jpg",
+			  "w": 1920,
+			  "h": 1280
+			},
+			{
+			  "src": "images/portfolio/branding/adeuxBranding.jpg",
+			  "w": 1600,
+			  "h": 1067
+			},
+			 {
+			  "src": "images/portfolio/branding/byCatherineAnne.jpg",
+			  "w": 1600,
+			  "h": 1522
+			},
+			  {
+			  "src": "images/portfolio/branding/SamanthaSign.jpg",
+			  "w": 1200,
+			  "h": 800
+			},	
+			{
+			  "src": "images/portfolio/branding/maisonSamantha.jpg",
+			  "w": 1600,
+			  "h": 1186
+			},
+			{
+			  "src": "images/portfolio/branding/jam.jpg",
+			  "w": 1920,
+			  "h": 1280
+			},
+			{
+			  "src": "images/portfolio/branding/jam2.jpg",
+			  "w": 1920,
+			  "h": 1280
+			},
+			{
+			  "src": "images/portfolio/branding/kingCrosby.jpg",
+			  "w": 1920,
+			  "h": 1280
+			},
+			{
+			  "src": "images/portfolio/branding/kingCrosby2.jpg",
+			  "w": 1920,
+			  "h": 1280
+			},
+			   {
+			  "src": "images/portfolio/largeFormat/FashionTruck.jpg",
+			  "w": 1600,
+			  "h": 927
+			},
+			  {
+			  "src": "images/portfolio/largeFormat/Rousseau.jpg",
+			  "w": 1500,
+			  "h": 1125
+			},
+			 {
+			  "src": "images/portfolio/branding/modluxe.jpg",
+			  "w": 1600,
+			  "h": 1261
+			}
+		  ],  
 		
 		/*creative: [
 		  {
