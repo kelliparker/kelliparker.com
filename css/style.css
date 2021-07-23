@@ -343,15 +343,6 @@ nav ul li:hover {
 	border: 1px solid #e1e1e1;
 }
 
-.works articleNB {
-	position: relative;
-	background: #fff;
-	flex: 0 0 31.5%;
-	-webkit-flex: 0 0 31.5%;
-	margin: 0 0 25px;
-	overflow: hidden;
-}
-
 .border {
 	border:5px solid #fff;
 	overflow: hidden;
