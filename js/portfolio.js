@@ -111,7 +111,7 @@ $(function() {
 			"src": "images/portfolio/infographics/osteopenia.jpg",
 			"w": 1122,
 			"h": 1500
-		  }
+		  },
 		  {
 			"src": "images/portfolio/creative/CLcovers.jpg",
 			"w": 1200,
