@@ -1,7 +1,7 @@
 $(function() {
 	var galleries = {
 		
-		/*adeux: [
+		adeux: [
 		  {
 			"src": "images/portfolio/a-deux/adeuxaugustaffair.jpg",
 			"w": 960,
@@ -44,10 +44,8 @@ $(function() {
 			"h": 753,
 			"title": "The completed stationery suite included more than just the invitation. We also created the escort cards, table numbers and dinner menus to fit the library theme."
 		  }
-		],*/
-		
-		
-		
+		],
+				
 		design: [
 /*		  {
 			"src": "images/portfolio/design/bloomies.jpg",
@@ -77,6 +75,44 @@ $(function() {
 			"h": 592,
 		  },
 		  {
+			"src": "images/portfolio/infographics/westcoastpower.jpg",
+			"w": 1159,
+			"h": 1920
+		  },
+		  {
+			"src": "images/portfolio/design/mtaBudget.jpg",
+			"w": 1850,
+			"h": 2499
+		  },
+		  {
+			"src": "images/portfolio/design/meghan-markle.jpg",
+			"w": 1000,
+			"h": 1800,
+			"title": "Project: a non-newsy profile of American actress and Duchess of Sussex Meghan Markle. My role: Writing, research, photo editing, illustration, UX design and front-end coding."
+		},
+	  {
+			"src": "images/portfolio/design/choose-your-weapon.jpg",
+			"w": 1200,
+			"h": 865,
+			"title": "Project: an easy interactive game to take advantage of Game of Thrones fever. My role: Creative direction, pixel art illustration and front-end coding."
+		},
+		{
+			"src": "images/portfolio/design/hurricanes.jpg",
+			"w": 1000,
+			"h": 1800,
+			"title": "Project: an online comparison of mega storms for the five-year anniversary of Hurricane Sandy. My role: Writing, research, illustrations, UX design and front-end development."
+		},
+			{
+			"src": "images/portfolio/infographics/infographic.png",
+			"w": 1500,
+			"h": 971
+		  },
+		  {
+			"src": "images/portfolio/infographics/osteopenia.jpg",
+			"w": 1122,
+			"h": 1500
+		  }
+		  {
 			"src": "images/portfolio/creative/CLcovers.jpg",
 			"w": 1200,
 			"h": 1016,
@@ -86,30 +122,11 @@ $(function() {
 			"w": 1500,
 			"h": 1500
 		  },
-			{
-				"src": "images/portfolio/design/meghan-markle.jpg",
-				"w": 1000,
-				"h": 1800,
-				"title": "Project: a non-newsy profile of American actress and Duchess of Sussex Meghan Markle. My role: Writing, research, photo editing, illustration, UX design and front-end coding."
-			},
-		  {
-				"src": "images/portfolio/design/choose-your-weapon.jpg",
-				"w": 1200,
-				"h": 865,
-				"title": "Project: an easy interactive game to take advantage of Game of Thrones fever. My role: Creative direction, pixel art illustration and front-end coding."
-			},
-			{
-				"src": "images/portfolio/design/hurricanes.jpg",
-				"w": 1000,
-				"h": 1800,
-				"title": "Project: an online comparison of mega storms for the five-year anniversary of Hurricane Sandy. My role: Writing, research, illustrations, UX design and front-end development."
-			},
 		  {
 			"src": "images/portfolio/design/DPentertainment.jpg",
 			"w": 1870,
 			"h": 1719,
 		  },
-		 
 		  {
 			"src": "images/portfolio/design/DPdesign2.jpg",
 			"w": 1747,
@@ -120,26 +137,6 @@ $(function() {
 			"w": 1800,
 			"h": 3000
 		  },
-		  {
-			"src": "images/portfolio/infographics/westcoastpower.jpg",
-			"w": 1159,
-			"h": 1920
-		  },
-		  {
-			"src": "images/portfolio/design/mtaBudget.jpg",
-			"w": 1850,
-			"h": 2499
-		  },
-		/*	{
-			"src": "images/portfolio/infographics/infographic.png",
-			"w": 1500,
-			"h": 971
-		  },
-		  {
-			"src": "images/portfolio/infographics/osteopenia.jpg",
-			"w": 1122,
-			"h": 1500
-		  }*/
 		],
 		
 		ux: [
@@ -179,7 +176,7 @@ $(function() {
 			  "h": 1000,
 			  "title": "My role: Creative Direction &amp; Design"
 			},
-			{
+			/*{
 			  "src": "images/portfolio/ux/rainforest-rescue.jpg",
 			  "w": 1011,
 			  "h": 1011,
@@ -190,7 +187,7 @@ $(function() {
 			  "w": 1460,
 			  "h": 859,
 			  "title": "Project: Brabantia, where good customer service makes the user experience more personal and increases brand loyalty. My role: UX Strategy &amp; Art Direction"
-			}
+			}*/
 		  ],
 		  
 		  
