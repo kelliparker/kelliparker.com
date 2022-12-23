@@ -6,7 +6,7 @@ $(function() {
 			"src": "images/portfolio/a-deux/adeuxaugustaffair.jpg",
 			"w": 960,
 			"h": 420,
-			"title": "Underwhelmed. That's how I felt after weeks of looking through invitation catalogs in preparation for my own wedding. Boring paper, cliché graphics, minimal effort. It all looked the same. In desperation, I designed my own invitations and found a new creative passion. When I decided to start my own design studio, I vowed to be different. My mission: making sure wedding stationery isn't ever generic. You can learn more at <a href='http://www.adeux.co' target='_blank'>adeux.co</a>."
+			"title": "Underwhelmed. That's how I felt after weeks of looking through invitation catalogs in preparation for my own wedding. Boring paper, cliché graphics, minimal effort. It all looked the same. In desperation, I designed my own invitations and found a new creative passion. When I decided to start my own design studio, I vowed to be different. My mission: making sure wedding stationery isn't ever generic."
 		  },
 		  {
 			"src": "images/portfolio/a-deux/adeuxBritGary.jpg",
@@ -47,16 +47,6 @@ $(function() {
 		],
 				
 		design: [
-/*		  {
-			"src": "images/portfolio/design/bloomies.jpg",
-			"w": 1800,
-			"h": 1200
-		  },
-		  {
-			"src": "images/portfolio/design/Boule.jpg",
-			"w": 1920,
-			"h": 1920
-		  },*/
 		  {
 			"src": "images/portfolio/design/tulsa.jpg",
 			"w": 1875,
@@ -73,6 +63,11 @@ $(function() {
 			"src": "images/portfolio/creative/PEAmagazine.jpg",
 			"w": 1440,
 			"h": 592,
+		  },
+		  {
+			"src": "images/portfolio/infographics/stateoftheunion.jpg",
+			"w": 1007,
+			"h": 1600
 		  },
 		  {
 			"src": "images/portfolio/infographics/westcoastpower.jpg",
@@ -139,7 +134,7 @@ $(function() {
 		  },
 		],
 		
-		ux: [
+		/* ux: [
 			{
 			  "src": "images/portfolio/ux/krpUXprocess.jpg",
 			  "w": 1800,
@@ -176,6 +171,11 @@ $(function() {
 			  "h": 1000,
 			  "title": "My role: Creative Direction &amp; Design"
 			},
+			{
+			"src": "images/portfolio/infographics/stateoftheunion.jpg",
+			"w": 1007,
+			"h": 1600
+		  },
 			/*{
 			  "src": "images/portfolio/ux/rainforest-rescue.jpg",
 			  "w": 1011,
@@ -187,10 +187,9 @@ $(function() {
 			  "w": 1460,
 			  "h": 859,
 			  "title": "Project: Brabantia, where good customer service makes the user experience more personal and increases brand loyalty. My role: UX Strategy &amp; Art Direction"
-			}*/
-		  ],
-		  
-		  
+			}
+		  ], */
+
 		  branding: [
 			   {
 			  "src": "images/portfolio/design/winterPark.jpg",
@@ -202,11 +201,11 @@ $(function() {
 			  "w": 1920,
 			  "h": 1920
 			},
-  /*{
+			{
 			  "src": "images/portfolio/design/California.jpg",
 			  "w": 1920,
 			  "h": 1920
-			},*/
+			},
 		  {
 			  "src": "images/portfolio/design/cbci.jpg",
 			  "w": 1890,
@@ -274,7 +273,17 @@ $(function() {
 			}
 		  ],  
 		
-		/*creative: [
+		creative: [
+		   {
+			"src": "images/portfolio/design/bloomies.jpg",
+			"w": 1800,
+			"h": 1200
+		  },
+		  {
+			"src": "images/portfolio/design/Boule.jpg",
+			"w": 1920,
+			"h": 1920
+		  },
 		  {
 			"src": "images/portfolio/creative/ChimbereMakeup.jpg",
 			"w": 1536,
@@ -292,17 +301,11 @@ $(function() {
 			"h": 960
 		  },
 		  {
-			"src": "images/portfolio/creative/swColors.jpg",
-			"w": 1024,
-			"h": 435
-		  },
-		  {
 			"src": "images/portfolio/creative/TypePortrait.jpg",
 			"w": 864,
 			"h": 1296
 		  },
-		],*/
-		
+		],		
 		
 		personal: [
 		  {
@@ -343,7 +346,7 @@ $(function() {
 			"h": 1920,
 			"title": "Castillo San Felipe del Morro: Old San Juan, Puerto Rico"
 		  }
-		]
+		],
 		
 		
 		
@@ -385,7 +388,7 @@ $(function() {
 		  }
 		],*/
 		
-/*	afterEffects: [
+afterEffects: [
 		  {
 			"src": "images/portfolio/afterEffects/sunset.mov",
 			"w": 1920,
@@ -406,7 +409,7 @@ $(function() {
 			"w": 1920,
 			"h": 1080
 		  }
-		],*/	
+		],
 		
 	/*infographics: [
 		  {
@@ -424,11 +427,7 @@ $(function() {
 			"w": 1459,
 			"h": 1558
 		  },
-		  {
-			"src": "images/portfolio/infographics/stateoftheunion.jpg",
-			"w": 1007,
-			"h": 1600
-		  },
+		  
 		  {
 			"src": "images/portfolio/infographics/westcoastpower.jpg",
 			"w": 1159,
