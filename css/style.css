@@ -177,7 +177,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------- */
 
 #welcome {
-	background: url('../images/Kelli-27.jpg') no-repeat center center;
+	background: url('../images/Kelli-7.jpg') no-repeat center center;
 	background-size: cover;
 	width: 100%;
 	height: 680px;
@@ -261,7 +261,12 @@ nav ul li:hover {
 
 #about {
 	padding: 100px 50px;
+	background-color: #f5f5f5;
  }
+
+ #about p {
+	text-align: left;
+}
 
 .button {
 	padding: 0 20px;
@@ -709,8 +714,8 @@ ul li {
     /*
      * Because the bullet is outside of the list's
      * container, indent the list entirely
-     */
-    margin-left: 1em;
+     margin-left: 1em;*/
+    
 	margin-top: 15px;
 }
 
